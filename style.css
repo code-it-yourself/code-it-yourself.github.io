@@ -6,6 +6,10 @@ span.keyword {
   color: #1B333B;
   font-weight: bold; }
 
+span.event {
+  color: #457B8D;
+  font-weight: bold; }
+
 body {
   margin: 50px 100px;
   background-color: #B8E3F1;

@@ -40,6 +40,11 @@ span.keyword {
   font-weight: bold;
 }
 
+span.event {
+  color: $color-primary-3;
+  font-weight: bold;
+}
+
 body {
   margin: 50px 100px;
   background-color: $color-primary-2;
